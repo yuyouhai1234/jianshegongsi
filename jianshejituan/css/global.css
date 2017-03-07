@@ -1,0 +1,44 @@
+.newsTitle{
+	width: 10.0rem;
+	height: 1.173rem;
+	background-color:#f7f7f7;
+	border:1px solid #b2b2b2;
+	box-sizing: border-box;
+	padding:0.293rem 0.227rem;
+	position: fixed;
+	z-index: 50;	
+}
+.newsTitle a{
+	float: left;
+	width: 4.267rem;
+	height:0.6rem;
+}
+.newsTitle a>img{
+	width: 100%;
+}
+.newsTitle span{
+	float: right;
+	width: 0.533rem;
+	height:0.373rem;
+	margin-top: 0.107rem;
+}
+.newsTitle span>img{
+	width: 100%;
+}
+.typicalnews{
+	padding: 0.4rem 0.0rem;
+	text-align: center;
+	box-sizing: border-box;
+}
+.typicalnews img{
+	width: 6.813rem;
+	height: 0.56rem;
+	margin: 0px auto;
+}
+.container{
+	width: 9.36rem;
+	margin: 0px auto;
+}
+*{
+	font-family: "微软雅黑";
+}

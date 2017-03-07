@@ -1,0 +1,42 @@
+.tanchuceng{
+	width:6rem;
+	position: fixed;
+	top: 0.0rem;
+	left: -7.187rem;
+	z-index: 100;
+}
+.tanchuang{
+	width: 6rem;
+	background-color:#074b8b;	
+	padding: 0.867rem 0px 1rem 1.333rem;
+	box-sizing: border-box;
+}
+.tanchuang li{
+	font-size: 0.373rem;
+	font-family: '微软雅黑';
+	line-height: 1.2rem;
+}
+.lianxi{
+	height:3.65rem;
+	background-color: #02376b;
+	padding: 0.3rem 0px 0px 1.067rem;
+	box-sizing: border-box;
+}
+.call{
+	font-size: 0.267rem;
+	color: #ffffff;
+	line-height: 0.667rem;
+}
+.phone{
+	font-size: 0.32rem;
+	color: #ffffff;
+    float: left;
+}
+.lianxi span img{
+ float: left;
+ width: 0.4rem;
+ height: 0.52rem;
+}
+#allmap{
+	height: 4.667rem;
+}
